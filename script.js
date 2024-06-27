@@ -43,3 +43,5 @@ document.addEventListener('click', (e) => {
 function isMobileView() {
     return window.matchMedia("(max-width: 768px)").matches;
 }
+
+/* ChatGPT generiertes Code */
